@@ -22,4 +22,4 @@ FIN POUR
 
 Afficher messageChiffre
 
-FINv
+FIN
